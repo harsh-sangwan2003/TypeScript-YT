@@ -1,0 +1,25 @@
+{
+  "name": "typescript-yt",
+  "version": "1.0.0",
+  "description": "A quick guide to my Project ->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc":"tsc",
+    "start":"tsc intro.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh-sangwan2003/TypeScript-YT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh-sangwan2003/TypeScript-YT/issues"
+  },
+  "homepage": "https://github.com/harsh-sangwan2003/TypeScript-YT#readme",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
